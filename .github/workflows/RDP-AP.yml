@@ -6,7 +6,7 @@ jobs:
   build:
 
     runs-on: self-hosted
-    timeout-minutes: 9999
+    timeout-minutes: 71
 
     steps:
     - name: Download Ngrok & NSSM
