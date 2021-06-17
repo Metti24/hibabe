@@ -1,6 +1,6 @@
 name: RDP-Windows
 
-on: workflow_dispatch
+on: self-hosted
 
 jobs:
   build:
