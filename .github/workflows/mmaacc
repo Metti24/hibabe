@@ -1,4 +1,4 @@
-name: hi
+name: himaacc
 on: 
   workflow_dispatch:
 defaults:
